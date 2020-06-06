@@ -16,7 +16,7 @@
 		{"id":"15","name":"reddit-alien"},
 		{"id":"16","name":"soundcloud"},
 		{"id":"17","name":"stack-overflow"},
-		{"id":"18","name":"steam"},
+		{"id":"18","name":"joseph"},
 		{"id":"19","name":"stumbleupon"},
 		{"id":"20","name":"tumblr"},
 		{"id":"21","name":"twitch"},
