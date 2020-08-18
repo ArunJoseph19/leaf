@@ -1,0 +1,42 @@
+{"offices": 
+	[{	"address": "Denmark",
+		"id": "Melton1",
+		"lat": 56.172249, 
+		"lng": 10.187372, 
+		"name": "Arun Joseph", 
+		"phone": "", 
+		"region": "europe"},
+
+		{"address": "Netherlands",
+		 "id": "Melton2",
+		 "lat": 52.337801,
+	 	 "lng": 4.872066,
+	 	 "name": "Palak",
+	 	 "phone": "",
+	 	"region": "europe"},
+
+	 	{"address": "India",
+		 "id": "Melton3",
+		 "lat": 20.5937,
+	 	 "lng": 78.9629,
+	 	 "name": "Shravani",
+	 	 "phone": "",
+	 	"region": "europe"},
+
+	 	{"address": "Australia",
+		 "id": "Melton4",
+		 "lat": -25.2744,
+	 	 "lng": 133.7751,
+	 	 "name": "Suhas",
+	 	 "phone": "",
+	 	"region": "europe"},
+
+	 	{"address": "United States",
+		 "id": "Melton5",
+		 "lat": 37.0902,
+	 	 "lng": -95.7129,
+	 	 "name": "Pranav",
+	 	 "phone": "",
+	 	"region": "north america"},
+	 ]
+}
