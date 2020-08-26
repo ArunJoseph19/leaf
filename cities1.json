@@ -3,644 +3,644 @@
     {
       "address": "AD",
       "name": "Sant Julià de Lòria",
-      "lat": "42.46372",
-      "lng": "1.49129"
+      "lat":  42.46372,
+      "lng":  1.49129
     },
     {
       "address": "AD",
       "name": "Pas de la Casa",
-      "lat": "42.54277",
-      "lng": "1.73361"
+      "lat":  42.54277,
+      "lng":  1.73361
     },
     {
       "address": "AD",
       "name": "Ordino",
-      "lat": "42.55623",
-      "lng": "1.53319"
+      "lat":  42.55623,
+      "lng":  1.53319
     },
     {
       "address": "AD",
       "name": "les Escaldes",
-      "lat": "42.50729",
-      "lng": "1.53414"
+      "lat":  42.50729,
+      "lng":  1.53414
     },
     {
       "address": "AD",
       "name": "la Massana",
-      "lat": "42.54499",
-      "lng": "1.51483"
+      "lat":  42.54499,
+      "lng":  1.51483
     },
     {
       "address": "AD",
       "name": "Encamp",
-      "lat": "42.53474",
-      "lng": "1.58014"
+      "lat":  42.53474,
+      "lng":  1.58014
     },
     {
       "address": "AD",
       "name": "Canillo",
-      "lat": "42.5676",
-      "lng": "1.59756"
+      "lat":  42.5676,
+      "lng":  1.59756
     },
     {
       "address": "AD",
       "name": "Arinsal",
-      "lat": "42.57205",
-      "lng": "1.48453"
+      "lat":  42.57205,
+      "lng":  1.48453
     },
     {
       "address": "AD",
       "name": "Andorra la Vella",
-      "lat": "42.50779",
-      "lng": "1.52109"
+      "lat":  42.50779,
+      "lng":  1.52109
     },
     {
       "address": "AE",
       "name": "Umm al Qaywayn",
-      "lat": "25.56473",
-      "lng": "55.55517"
+      "lat":  25.56473,
+      "lng":  55.55517
     },
     {
       "address": "AE",
       "name": "Ras al-Khaimah",
-      "lat": "25.78953",
-      "lng": "55.9432"
+      "lat":  25.78953,
+      "lng":  55.9432
     },
     {
       "address": "AE",
       "name": "Muzayri‘",
-      "lat": "23.14355",
-      "lng": "53.7881"
+      "lat":  23.14355,
+      "lng":  53.7881
     },
     {
       "address": "AE",
       "name": "Murbaḩ",
-      "lat": "25.27623",
-      "lng": "56.36256"
+      "lat":  25.27623,
+      "lng":  56.36256
     },
     {
       "address": "AE",
       "name": "Khawr Fakkān",
-      "lat": "25.33132",
-      "lng": "56.34199"
+      "lat":  25.33132,
+      "lng":  56.34199
     },
     {
       "address": "AE",
       "name": "Dubai",
-      "lat": "25.0657",
-      "lng": "55.17128"
+      "lat":  25.0657,
+      "lng":  55.17128
     },
     {
       "address": "AE",
       "name": "Dibba Al-Fujairah",
-      "lat": "25.59246",
-      "lng": "56.26176"
+      "lat":  25.59246,
+      "lng":  56.26176
     },
     {
       "address": "AE",
       "name": "Dibba Al-Hisn",
-      "lat": "25.61955",
-      "lng": "56.27291"
+      "lat":  25.61955,
+      "lng":  56.27291
     },
     {
       "address": "AE",
       "name": "Sharjah",
-      "lat": "25.33737",
-      "lng": "55.41206"
+      "lat":  25.33737,
+      "lng":  55.41206
     },
     {
       "address": "AE",
       "name": "Ar Ruways",
-      "lat": "24.11028",
-      "lng": "52.73056"
+      "lat":  24.11028,
+      "lng":  52.73056
     },
     {
       "address": "AE",
       "name": "Al Fujayrah",
-      "lat": "25.11641",
-      "lng": "56.34141"
+      "lat":  25.11641,
+      "lng":  56.34141
     },
     {
       "address": "AE",
       "name": "Al Ain",
-      "lat": "24.19167",
-      "lng": "55.76056"
+      "lat":  24.19167,
+      "lng":  55.76056
     },
     {
       "address": "AE",
       "name": "Ajman",
-      "lat": "25.41111",
-      "lng": "55.43504"
+      "lat":  25.41111,
+      "lng":  55.43504
     },
     {
       "address": "AE",
       "name": "Adh Dhayd",
-      "lat": "25.28812",
-      "lng": "55.88157"
+      "lat":  25.28812,
+      "lng":  55.88157
     },
     {
       "address": "AE",
       "name": "Abu Dhabi",
-      "lat": "24.46667",
-      "lng": "54.36667"
+      "lat":  24.46667,
+      "lng":  54.36667
     },
     {
       "address": "AF",
       "name": "Zorkot",
-      "lat": "33.54149",
-      "lng": "69.73446"
+      "lat":  33.54149,
+      "lng":  69.73446
     },
     {
       "address": "AF",
       "name": "Wulêswālī Bihsūd",
-      "lat": "34.3436",
-      "lng": "67.90567"
+      "lat":  34.3436,
+      "lng":  67.90567
     },
     {
       "address": "AF",
       "name": "Kuhsān",
-      "lat": "34.65389",
-      "lng": "61.19778"
+      "lat":  34.65389,
+      "lng":  61.19778
     },
     {
       "address": "AF",
       "name": "Lāsh",
-      "lat": "35.3782",
-      "lng": "64.77457"
+      "lat":  35.3782,
+      "lng":  64.77457
     },
     {
       "address": "AF",
       "name": "Tukzār",
-      "lat": "35.94831",
-      "lng": "66.42132"
+      "lat":  35.94831,
+      "lng":  66.42132
     },
     {
       "address": "AF",
       "name": "Mīray",
-      "lat": "33.32462",
-      "lng": "68.44068"
+      "lat":  33.32462,
+      "lng":  68.44068
     },
     {
       "address": "AF",
       "name": "Āq Kupruk",
-      "lat": "36.08352",
-      "lng": "66.84029"
+      "lat":  36.08352,
+      "lng":  66.84029
     },
     {
       "address": "AF",
       "name": "Zurmat",
-      "lat": "33.43778",
-      "lng": "69.02774"
+      "lat":  33.43778,
+      "lng":  69.02774
     },
     {
       "address": "AF",
       "name": "Zaybāk",
-      "lat": "36.52947",
-      "lng": "71.3441"
+      "lat":  36.52947,
+      "lng":  71.3441
     },
     {
       "address": "AF",
       "name": "Zīārat-e Shāh Maqşūd",
-      "lat": "31.9848",
-      "lng": "65.4736"
+      "lat":  31.9848,
+      "lng":  65.4736
     },
     {
       "address": "AF",
       "name": "Zindah Jān",
-      "lat": "34.34264",
-      "lng": "61.74675"
+      "lat":  34.34264,
+      "lng":  61.74675
     },
     {
       "address": "AF",
       "name": "Zarghūn Shahr",
-      "lat": "32.84734",
-      "lng": "68.44573"
+      "lat":  32.84734,
+      "lng":  68.44573
     },
     {
       "address": "AF",
       "name": "Zaṟah Sharan",
-      "lat": "33.14641",
-      "lng": "68.79213"
+      "lat":  33.14641,
+      "lng":  68.79213
     },
     {
       "address": "AF",
       "name": "Zaranj",
-      "lat": "30.95962",
-      "lng": "61.86037"
+      "lat":  30.95962,
+      "lng":  61.86037
     },
     {
       "address": "AF",
       "name": "Zamtō Kêlay",
-      "lat": "32.3726",
-      "lng": "66.17708"
+      "lat":  32.3726,
+      "lng":  66.17708
     },
     {
       "address": "AF",
       "name": "Yangī Qal‘ah",
-      "lat": "37.46572",
-      "lng": "69.61131"
+      "lat":  37.46572,
+      "lng":  69.61131
     },
     {
       "address": "AF",
       "name": "Yaḩyá Khēl",
-      "lat": "32.93742",
-      "lng": "68.64622"
+      "lat":  32.93742,
+      "lng":  68.64622
     },
     {
       "address": "AF",
       "name": "Wāshēr",
-      "lat": "32.25122",
-      "lng": "63.85553"
+      "lat":  32.25122,
+      "lng":  63.85553
     },
     {
       "address": "AF",
       "name": "Tōrmay",
-      "lat": "33.68847",
-      "lng": "68.40205"
+      "lat":  33.68847,
+      "lng":  68.40205
     },
     {
       "address": "AF",
       "name": "Tūlak",
-      "lat": "33.97509",
-      "lng": "63.72868"
+      "lat":  33.97509,
+      "lng":  63.72868
     },
     {
       "address": "AF",
       "name": "Tītān",
-      "lat": "33.69032",
-      "lng": "63.86361"
+      "lat":  33.69032,
+      "lng":  63.86361
     },
     {
       "address": "AF",
       "name": "Tīr Pul",
-      "lat": "34.59431",
-      "lng": "61.26895"
+      "lat":  34.59431,
+      "lng":  61.26895
     },
     {
       "address": "AF",
       "name": "Taywarah",
-      "lat": "33.52118",
-      "lng": "64.42116"
+      "lat":  33.52118,
+      "lng":  64.42116
     },
     {
       "address": "AF",
       "name": "Bāzār-e Tashkān",
-      "lat": "36.88168",
-      "lng": "70.27674"
+      "lat":  36.88168,
+      "lng":  70.27674
     },
     {
       "address": "AF",
       "name": "Tarinkot",
-      "lat": "32.62998",
-      "lng": "65.87806"
+      "lat":  32.62998,
+      "lng":  65.87806
     },
     {
       "address": "AF",
       "name": "Taloqan",
-      "lat": "36.73605",
-      "lng": "69.53451"
+      "lat":  36.73605,
+      "lng":  69.53451
     },
     {
       "address": "AF",
       "name": "Tagāw-Bāy",
-      "lat": "35.69941",
-      "lng": "66.06164"
+      "lat":  35.69941,
+      "lng":  66.06164
     },
     {
       "address": "AF",
       "name": "Tagāb",
-      "lat": "34.85501",
-      "lng": "69.64917"
+      "lat":  34.85501,
+      "lng":  69.64917
     },
     {
       "address": "AF",
       "name": "Markaz-e Ḩukūmat-e Sulţān-e Bakwāh",
-      "lat": "32.24139",
-      "lng": "62.94936"
+      "lat":  32.24139,
+      "lng":  62.94936
     },
     {
       "address": "AF",
       "name": "Spīn Bōldak",
-      "lat": "31.00575",
-      "lng": "66.40001"
+      "lat":  31.00575,
+      "lng":  66.40001
     },
     {
       "address": "AF",
       "name": "Spērah",
-      "lat": "33.20204",
-      "lng": "69.5152"
+      "lat":  33.20204,
+      "lng":  69.5152
     },
     {
       "address": "AF",
       "name": "Sōzmah Qal‘ah",
-      "lat": "36.09916",
-      "lng": "66.20823"
+      "lat":  36.09916,
+      "lng":  66.20823
     },
     {
       "address": "AF",
       "name": "Siyāhgird",
-      "lat": "35.00553",
-      "lng": "68.85578"
+      "lat":  35.00553,
+      "lng":  68.85578
     },
     {
       "address": "AF",
       "name": "Sheywah",
-      "lat": "34.57169",
-      "lng": "70.58859"
+      "lat":  34.57169,
+      "lng":  70.58859
     },
     {
       "address": "AF",
       "name": "Shīnḏanḏ",
-      "lat": "33.30294",
-      "lng": "62.1474"
+      "lat":  33.30294,
+      "lng":  62.1474
     },
     {
       "address": "AF",
       "name": "Shaykh Amīr Kêlay",
-      "lat": "33.28744",
-      "lng": "69.91283"
+      "lat":  33.28744,
+      "lng":  69.91283
     },
     {
       "address": "AF",
       "name": "Qāshqāl",
-      "lat": "35.03975",
-      "lng": "69.00685"
+      "lat":  35.03975,
+      "lng":  69.00685
     },
     {
       "address": "AF",
       "name": "Shibirghān",
-      "lat": "36.66757",
-      "lng": "65.7529"
+      "lat":  36.66757,
+      "lng":  65.7529
     },
     {
       "address": "AF",
       "name": "Shwāk",
-      "lat": "33.42386",
-      "lng": "69.37684"
+      "lat":  33.42386,
+      "lng":  69.37684
     },
     {
       "address": "AF",
       "name": "Shahr-e Şafā",
-      "lat": "31.80347",
-      "lng": "66.32376"
+      "lat":  31.80347,
+      "lng":  66.32376
     },
     {
       "address": "AF",
       "name": "Shahrān",
-      "lat": "36.97984",
-      "lng": "70.73928"
+      "lat":  36.97984,
+      "lng":  70.73928
     },
     {
       "address": "AF",
       "name": "Shahrak",
-      "lat": "34.10737",
-      "lng": "64.3052"
+      "lat":  34.10737,
+      "lng":  64.3052
     },
     {
       "address": "AF",
       "name": "‘Alāqahdārī Shāh Jōy",
-      "lat": "32.52154",
-      "lng": "67.41315"
+      "lat":  32.52154,
+      "lng":  67.41315
     },
     {
       "address": "AF",
       "name": "Wulêswālī Sayyid Karam",
-      "lat": "33.69056",
-      "lng": "69.36881"
+      "lat":  33.69056,
+      "lng":  69.36881
     },
     {
       "address": "AF",
       "name": "Markaz-e Sayyidābād",
-      "lat": "34.00037",
-      "lng": "68.71346"
+      "lat":  34.00037,
+      "lng":  68.71346
     },
     {
       "address": "AF",
       "name": "Şayād",
-      "lat": "36.13529",
-      "lng": "65.8297"
+      "lat":  36.13529,
+      "lng":  65.8297
     },
     {
       "address": "AF",
       "name": "Sidqābād",
-      "lat": "35.02298",
-      "lng": "69.35112"
+      "lat":  35.02298,
+      "lng":  69.35112
     },
     {
       "address": "AF",
       "name": "Sāyagaz",
-      "lat": "32.56521",
-      "lng": "67.03324"
+      "lat":  32.56521,
+      "lng":  67.03324
     },
     {
       "address": "AF",
       "name": "Sar-e Tayghān",
-      "lat": "33.50998",
-      "lng": "65.67632"
+      "lat":  33.50998,
+      "lng":  65.67632
     },
     {
       "address": "AF",
       "name": "Sarōbī",
-      "lat": "34.58962",
-      "lng": "69.76005"
+      "lat":  34.58962,
+      "lng":  69.76005
     },
     {
       "address": "AF",
       "name": "Sar Kāṉī",
-      "lat": "34.79023",
-      "lng": "71.10962"
+      "lat":  34.79023,
+      "lng":  71.10962
     },
     {
       "address": "AF",
       "name": "Sarfirāz Kalā",
-      "lat": "32.98333",
-      "lng": "67.96517"
+      "lat":  32.98333,
+      "lng":  67.96517
     },
     {
       "address": "AF",
       "name": "Sar-e Pul",
-      "lat": "36.21544",
-      "lng": "65.93249"
+      "lat":  36.21544,
+      "lng":  65.93249
     },
     {
       "address": "AF",
       "name": "Sar Chakān",
-      "lat": "35.70177",
-      "lng": "65.23055"
+      "lat":  35.70177,
+      "lng":  65.23055
     },
     {
       "address": "AF",
       "name": "Sangīn",
-      "lat": "32.07275",
-      "lng": "64.8359"
+      "lat":  32.07275,
+      "lng":  64.8359
     },
     {
       "address": "AF",
       "name": "Sang-e Māshah",
-      "lat": "33.1396",
-      "lng": "67.44046"
+      "lat":  33.1396,
+      "lng":  67.44046
     },
     {
       "address": "AF",
       "name": "Sang-e Chārak",
-      "lat": "35.84972",
-      "lng": "66.43694"
+      "lat":  35.84972,
+      "lng":  66.43694
     },
     {
       "address": "AF",
       "name": "Sang Atesh",
-      "lat": "35.248",
-      "lng": "63.0044"
+      "lat":  35.248,
+      "lng":  63.0044
     },
     {
       "address": "AF",
       "name": "Sangar Sarāy",
-      "lat": "34.40744",
-      "lng": "70.63937"
+      "lat":  34.40744,
+      "lng":  70.63937
     },
     {
       "address": "AF",
       "name": "Aībak",
-      "lat": "36.26468",
-      "lng": "68.01551"
+      "lat":  36.26468,
+      "lng":  68.01551
     },
     {
       "address": "AF",
       "name": "Rū-ye Sang",
-      "lat": "35.31999",
-      "lng": "67.63387"
+      "lat":  35.31999,
+      "lng":  67.63387
     },
     {
       "address": "AF",
       "name": "Rūdbār",
-      "lat": "30.15",
-      "lng": "62.6"
+      "lat":  30.15,
+      "lng":  62.6
     },
     {
       "address": "AF",
       "name": "Rustāq",
-      "lat": "37.12604",
-      "lng": "69.83045"
+      "lat":  37.12604,
+      "lng":  69.83045
     },
     {
       "address": "AF",
       "name": "Rabāţ-e Sangī-ye Pā’īn",
-      "lat": "34.79951",
-      "lng": "62.13917"
+      "lat":  34.79951,
+      "lng":  62.13917
     },
     {
       "address": "AF",
       "name": "Rāmak",
-      "lat": "33.52234",
-      "lng": "68.6264"
+      "lat":  33.52234,
+      "lng":  68.6264
     },
     {
       "address": "AF",
       "name": "Qurghān",
-      "lat": "36.91939",
-      "lng": "65.0649"
+      "lat":  36.91939,
+      "lng":  65.0649
     },
     {
       "address": "AF",
       "name": "Quchanghī",
-      "lat": "34.06183",
-      "lng": "66.27801"
+      "lat":  34.06183,
+      "lng":  66.27801
     },
     {
       "address": "AF",
       "name": "Sangalak-i-Kaisar",
-      "lat": "35.68747",
-      "lng": "64.29318"
+      "lat":  35.68747,
+      "lng":  64.29318
     },
     {
       "address": "AF",
       "name": "Qarqīn",
-      "lat": "37.41853",
-      "lng": "66.04358"
+      "lat":  37.41853,
+      "lng":  66.04358
     },
     {
       "address": "AF",
       "name": "Qarghah’ī",
-      "lat": "34.55402",
-      "lng": "70.24292"
+      "lat":  34.55402,
+      "lng":  70.24292
     },
     {
       "address": "AF",
       "name": "Qarchī Gak",
-      "lat": "37.03999",
-      "lng": "66.78891"
+      "lat":  37.03999,
+      "lng":  66.78891
     },
     {
       "address": "AF",
       "name": "Qarāwul",
-      "lat": "37.21959",
-      "lng": "68.7802"
+      "lat":  37.21959,
+      "lng":  68.7802
     },
     {
       "address": "AF",
       "name": "Qarah Bāgh",
-      "lat": "34.94023",
-      "lng": "61.77589"
+      "lat":  34.94023,
+      "lng":  61.77589
     },
     {
       "address": "AF",
       "name": "Qarah Bāgh",
-      "lat": "33.19801",
-      "lng": "68.10798"
+      "lat":  33.19801,
+      "lng":  68.10798
     },
     {
       "address": "AF",
       "name": "Qala i Naw",
-      "lat": "34.98735",
-      "lng": "63.12891"
+      "lat":  34.98735,
+      "lng":  63.12891
     },
     {
       "address": "AF",
       "name": "Qal‘ah-ye Kūf",
-      "lat": "38.04119",
-      "lng": "70.47298"
+      "lat":  38.04119,
+      "lng":  70.47298
     },
     {
       "address": "AF",
       "name": "Qal‘ah-ye Kuhnah",
-      "lat": "32.61591",
-      "lng": "63.66681"
+      "lat":  32.61591,
+      "lng":  63.66681
     },
     {
       "address": "AF",
       "name": "Qal‘ah-ye Shahr",
-      "lat": "35.54729",
-      "lng": "65.5676"
+      "lat":  35.54729,
+      "lng":  65.5676
     },
     {
       "address": "AF",
       "name": "Qalāt",
-      "lat": "32.10575",
-      "lng": "66.90833"
+      "lat":  32.10575,
+      "lng":  66.90833
     },
     {
       "address": "AF",
       "name": "Qal‘ah-ye Shāhī",
-      "lat": "34.64921",
-      "lng": "70.5914"
+      "lat":  34.64921,
+      "lng":  70.5914
     },
     {
       "address": "AF",
       "name": "Qādis",
-      "lat": "34.8085",
-      "lng": "63.43003"
+      "lat":  34.8085,
+      "lng":  63.43003
     },
     {
       "address": "AF",
       "name": "Pārūn",
-      "lat": "35.42064",
-      "lng": "70.92261"
+      "lat":  35.42064,
+      "lng":  70.92261
     },
     {
       "address": "AF",
       "name": "Pul-e Khumrī",
-      "lat": "35.94458",
-      "lng": "68.71512"
+      "lat":  35.94458,
+      "lng":  68.71512
     }
   ]
 }
